@@ -1,0 +1,4 @@
+.nav ul{
+    display:flex;
+    background: linear-gradient(90deg, #f5f2ef 0, #efebe6 100%);
+}
